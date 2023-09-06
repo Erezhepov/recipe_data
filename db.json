@@ -1,0 +1,64 @@
+{
+	"recipes": [
+		{
+			"id": 1,
+			"name": "Manti",
+			"image": "https://www.patee.ru/r/x6/15/0b/4b/960m.jpg",
+			"ration": "dinner or lunch"
+		},
+		{
+			"id": 2,
+			"name": "Lagman",
+			"image": "https://www.gastronom.ru/binfiles/images/20221110/bf9ddb7f.jpg",
+			"ration": "dinner or lunch"
+		},
+		{
+			"id": 3,
+			"name": "Burger",
+			"image": "https://primebeef.ru/images/cms/thumbs/a5b0aeaa3fa7d6e58d75710c18673bd7ec6d5f6d/img_3911_500_306_5_100.jpg",
+			"ration": "dinner or lunch"
+		},
+		{
+			"name": "Plov",
+			"image": "https://www.gastronom.ru/binfiles/images/20230421/b5aa6302.jpg",
+			"id": 4,
+			"ration": "dinner or lunch"
+		},
+		{
+			"name": "Beshbarmak",
+			"image": "https://dom-eda.com/uploads/images/catalog/item/5af5e7a908/bcc61cd9dd_1000.jpg",
+			"id": 5,
+			"ration": "dinner or lunch"
+		},
+		{
+			"name": "Doner",
+			"image": "https://imageproxy.wolt.com/venue/63342b5454e6260b80ae2d5b/195fdc00-4bc0-11ed-a870-a290eeb1da77_0m0a3906.jpg",
+			"id": 6,
+			"ration": "dinner or lunch"
+		},
+		{
+			"name": "Oatmeal porridge",
+			"image": "https://img.delo-vcusa.ru/2021/02/ovsyanaya-kasha-na-moloke-s-medom.jpg",
+			"id": 7,
+			"ration": "breakfast"
+		},
+		{
+			"name": "Samsa",
+			"image": "https://www.gastronom.ru/binfiles/images/20161118/b0a987b6.jpg",
+			"id": 8,
+			"ration": "dinner or lunch"
+		},
+		{
+			"name": "Fried eggs",
+			"image": "https://grillonadime.com/wp-content/uploads/2022/05/blackstone-fried-eggs-5-2.jpg",
+			"id": 9,
+			"ration": "breakfast"
+		},
+		{
+			"name": "Semolina  porridge",
+			"image": "https://www.vsegdavkusno.ru/assets/images/recipes/2822/mannaya-kasha2.jpg",
+			"id": 10,
+			"ration": "breakfast"
+		}
+	]
+}
